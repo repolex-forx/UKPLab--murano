@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/murano/commit/f5a958b42b30d04b8433285a8c59b720bb7e4918",
       "git:hexsha": "f5a958b42b30d04b8433285a8c59b720bb7e4918",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T10:34:09.994317+00:00"
     },
     {
       "@id": "https://repolex.ai/r/UKPLab/murano/commit/f9c355437f288f77227ea3036b445a115b25868c",
