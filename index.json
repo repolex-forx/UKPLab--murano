@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "murano",
+  "versions": [
+    {
+      "commit": "f5a958b42b30d04b8433285a8c59b720bb7e4918",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:34:09.995767+00:00"
+    }
+  ]
+}
